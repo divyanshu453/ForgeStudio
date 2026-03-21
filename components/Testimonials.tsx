@@ -62,7 +62,7 @@ export default function Testimonials() {
             >
               {/* Quote mark */}
               <div className="font-display text-6xl font-800 text-volt/10 group-hover:text-volt/20 transition-colors leading-none mb-4">
-                "
+                &ldquo;
               </div>
 
               <p className="text-cream text-base font-300 leading-relaxed mb-8 italic">
