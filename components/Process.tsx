@@ -21,7 +21,7 @@ const steps = [
   {
     num: "03",
     title: "Build",
-    duration: "Week 3-4",
+    duration: "Week 3",
     description:
       "Agile sprints, weekly demos, and daily standups. You always know what we're working on, what's blocked, and what's shipping.",
     deliverables: ["Weekly Demos", "Staging Deploys", "QA Testing", "Performance Audit"],
