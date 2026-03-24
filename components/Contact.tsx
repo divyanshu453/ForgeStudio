@@ -64,7 +64,7 @@ export default function Contact() {
                 <div className="w-8 h-8 bg-volt/10 rounded-sm flex items-center justify-center group-hover:bg-volt/20 transition-colors">
                   <Mail size={14} className="text-volt" />
                 </div>
-                <span className="font-mono text-sm">divyanshuprajapati100@gmail.com</span>
+                <span className="font-mono text-sm">forgestudio13@gmail.com</span>
               </a>
               <div className="flex items-center gap-3 text-mist">
                 <div className="w-8 h-8 bg-white/5 rounded-sm flex items-center justify-center"><MapPin size={14} className="text-mist-2" /></div>
